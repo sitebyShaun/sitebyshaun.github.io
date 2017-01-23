@@ -1,14 +1,9 @@
 body {
-	background: pink;
-}
-#bullet1{
-	padding: 10px;
-    background: rgba(0,0,0,0.5);
-	display: block;
+	background:rgb(255,102,102);
 }
 header {
       text-align: center;
-      background: url('https://lh3.google.com/u/0/d/0B0lTNctx04lNRjdqc1c1dTlkSzQ=w1914-h711-iv1');
+      background-color:rgb(255,51,102);
       background-size: cover;
       color: white;
 }
@@ -16,6 +11,8 @@ li {
 	display: inline;
     padding: 0px 10px 0px 10px;
 }
-#bullet2 {
-    display: block;
+ul {
+    padding: 10px;
+    background: rgba(10,10,10,0.5);
+    opacity: 0.5;
 }
