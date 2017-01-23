@@ -1,5 +1,5 @@
 body {
-	background:rgb(255,102,102);
+	background:rgb(255,255,102);
 }
 header {
       text-align: center;
@@ -15,4 +15,7 @@ ul {
     padding: 10px;
     background: rgba(10,10,10,0.5);
     opacity: 0.5;
+}
+background {
+	opacity:0.5;
 }
