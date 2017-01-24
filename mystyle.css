@@ -4,7 +4,7 @@ body {
 header {
       text-align: center;
       background-color:rgb(255,51,102);
-      background-size: 10px 10px;
+      max-width:200px;
       color: white;
 }
 li {
