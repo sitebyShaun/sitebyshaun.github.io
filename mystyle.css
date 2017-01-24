@@ -2,10 +2,11 @@ body {
 	background:rgb(255,255,102);
 }
 header {
-      text-align: center;
+      align-content:center;
       background-color:rgb(255,51,102);
       max-width:1000px; 
       color: white;
+      text-align: center;
 }
 li {
 	display: inline;
