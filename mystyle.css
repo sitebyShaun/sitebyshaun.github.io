@@ -6,6 +6,7 @@ header {
       background-color:rgb(255,51,102);
       max-width:1000px;
       color: white;
+      align-content: center;
 }
 li {
 	display: inline;
