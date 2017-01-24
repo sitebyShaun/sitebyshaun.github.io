@@ -7,6 +7,7 @@ header {
       max-width:1000px;
       color: white;
       align-content: center;
+      padding-left: 100px;
 }
 li {
 	display: inline;
