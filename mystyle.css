@@ -6,6 +6,8 @@ background:rgb(255,255,102);
       background: url('https://lh3.google.com/u/0/d/0B0lTNctx04lNdFl3dHJpRTR5SFE=w1177-h831-iv1');
       background-size: cover;
       color: white;
+      padding-top: 80px;
+      padding-bottom: 80px;
     }
 
 li {
