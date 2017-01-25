@@ -14,8 +14,6 @@ li {
 }
 ul {
     padding: 10px;
-    background: rgba(10,10,10,0.5);
-}
-background {
-opacity:0.5;
+    background: #ff6666;
+    opacity: 0.5;
 }
