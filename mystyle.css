@@ -3,9 +3,8 @@ background:rgb(255,255,102);
 }
 header {
       align-content:center;
-      background-color:#ff3366;
       background:1000px; 
-      color: white;
+      color: #ff3366;
       text-align: center;
 }
 li {
