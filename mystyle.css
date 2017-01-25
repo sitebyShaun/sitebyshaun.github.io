@@ -3,8 +3,8 @@ background:rgb(255,255,102);
 }
 header {
       align-content:center;
-      background:1000px; 
-      color: #ff3366;
+      background-size: cover; 
+      background: url('https://lh3.google.com/u/0/d/0B0lTNctx04lNdFl3dHJpRTR5SFE=w1177-h831-iv1')
       text-align: center;
 }
 li {
