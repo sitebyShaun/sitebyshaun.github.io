@@ -1,5 +1,8 @@
 body {
 background:rgb(255,255,102);
+color: white;
+  
+
 }
    header {
       text-align: center;
@@ -7,6 +10,7 @@ background:rgb(255,255,102);
       background-size: cover;
       color: white;
       padding-top: 80px;
+      font-size:250%;
     }
 
 li {
